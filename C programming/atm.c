@@ -85,7 +85,7 @@ int main()
             }
             else if (mobn == newMobn && pass != newPass)
             {
-                printf("\n\t\t :WRONG PASSWORD: \n");
+                printf("\n\t\t :WRONG    PASSWORD: \n");
                 Sleep(2000);
                 system("cls");
                 goto b;

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "EVENODD.C": "cpp",
+        "random": "c",
+        "LINCKEDliST.C": "cpp",
+        "stdlib.h": "c"
+    }
+}
